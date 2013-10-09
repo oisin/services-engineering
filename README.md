@@ -65,3 +65,10 @@
 #### Courseware
 
 * [University of Illinois CS 525: Advanced Distributed Systems](http://courses.engr.illinois.edu/cs525/sp2011/sched.htm)
+
+----
+
+Some comments on this list
+
+* @jmason I'm not sure reading the GFS or Chubby papers are useful
+* @jmason I'm glad he calls out 'On Designing and Deploying Internet Scale Services' though
